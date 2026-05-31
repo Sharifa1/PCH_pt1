@@ -6,4 +6,3 @@ while count > 0:
     result = result + myInput[count-1]
     count = count - 1
 print(result)
-
